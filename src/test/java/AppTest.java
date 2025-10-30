@@ -3,7 +3,7 @@ import static org.junit.jupiter.api.Assertions.*;
 public class AppTest {
     @Test
     void testAdd() {
-        assertEquals(3, App.add(2, 2));
+        assertEquals(3, App.add(1, 2));
     }
 }
 // End of file: src/test/java/AppTest.java
